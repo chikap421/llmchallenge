@@ -5,23 +5,29 @@
     <td><img src="https://img.shields.io/badge/🐍%20Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /></td>
     <td><img src="https://img.shields.io/badge/🔥%20PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" /></td>
     <td><img src="https://img.shields.io/badge/🤗%20Hugging%20Face-yellow?style=for-the-badge&logo=huggingface&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/🐧%20Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></td>
+    <td><img src="https://img.shields.io/badge/☁️%20AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/🔧%20VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /></td>
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/📓%20Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" /></td>
     <td><img src="https://img.shields.io/badge/🤖%20Transformers-49BDF2?style=for-the-badge&logo=transformers&logoColor=white" /></td>
     <td><img src="https://img.shields.io/badge/🐙%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/⚛️%20Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/💻%20Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/🔑%20OAuth-4285F4?style=for-the-badge&logo=oauth&logoColor=white" /></td>
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/📊%20SeqEval-blue?style=for-the-badge&logo=chartdotjs&logoColor=white" /></td>
     <td><img src="https://img.shields.io/badge/🚀%20Accelerate-green?style=for-the-badge&logo=accelerate&logoColor=white" /></td>
     <td><img src="https://img.shields.io/badge/💬%20NLP-red?style=for-the-badge&logo=nlp&logoColor=white" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/📊%20Data%20Science-blue?style=for-the-badge&logo=datascience&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/⚙️%20Machine%20Learning-lightgrey?style=for-the-badge&logo=machinelearning&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/🧠%20AI-black?style=for-the-badge&logo=artificialintelligence&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/⚙️%20Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/☁️%20Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/⚙️%20TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /></td>
   </tr>
 </table>
+
+
 **POSLayerFreeze** investigates the impact of freezing different layers of a transformer model (DistilBERT) on the task of Part-of-Speech (POS) tagging. The project focuses on understanding how freezing specific layers, both individually (Single Layer Partial Freezing or SLPF) and in combination (Compound Layer Partial Freezing or CLPF), affects the model's performance.
 
 
