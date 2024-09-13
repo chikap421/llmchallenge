@@ -1,8 +1,16 @@
 # POSLayerFreeze: Exploring Layer Freezing for POS Tagging
 
-| ![Python](https://www.python.org/static/community_logos/python-logo.png){width=100} | ![PyTorch](https://pytorch.org/assets/images/pytorch-logo.png){width=100} | ![Hugging Face](https://huggingface.co/front/assets/huggingface_logo-noborder.svg){width=100} | ![Jupyter](https://jupyter.org/assets/homepage/main-logo.svg){width=100} | ![Transformers](https://raw.githubusercontent.com/huggingface/transformers/main/docs/source/imgs/transformers_logo_name.png){width=100} |
-| --- | --- | --- | --- | --- |
-| ![DistilBERT](https://raw.githubusercontent.com/google-research/distill/master/assets/distilbert_logo.png){width=100} | ![SeqEval](https://raw.githubusercontent.com/seqeval/seqeval/master/seqeval_logo.png){width=100} | ![Universal Dependencies](https://universaldependencies.org/images/logo.svg){width=100} | ![Accelerate](https://huggingface.co/datasets/huggingface/accelerate/raw/main/accelerate-logo.png){width=100} | ![GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png){width=100} |
+![Python](https://img.shields.io/badge/🐍%20Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PyTorch](https://img.shields.io/badge/🔥%20PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-yellow?style=for-the-badge&logo=huggingface&logoColor=white)
+![Jupyter](https://img.shields.io/badge/📓%20Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Transformers](https://img.shields.io/badge/🤖%20Transformers-49BDF2?style=for-the-badge&logo=transformers&logoColor=white)
+![GitHub](https://img.shields.io/badge/🐙%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![SeqEval](https://img.shields.io/badge/📊%20SeqEval-blue?style=for-the-badge&logo=chartdotjs&logoColor=white)
+![Accelerate](https://img.shields.io/badge/🚀%20Accelerate-green?style=for-the-badge&logo=accelerate&logoColor=white)
+![NLP](https://img.shields.io/badge/💬%20NLP-red?style=for-the-badge&logo=nlp&logoColor=white)
+![Data Science](https://img.shields.io/badge/📊%20Data%20Science-blue?style=for-the-badge&logo=datascience&logoColor=white)
+
 **POSLayerFreeze** investigates the impact of freezing different layers of a transformer model (DistilBERT) on the task of Part-of-Speech (POS) tagging. The project focuses on understanding how freezing specific layers, both individually (Single Layer Partial Freezing or SLPF) and in combination (Compound Layer Partial Freezing or CLPF), affects the model's performance.
 
 
