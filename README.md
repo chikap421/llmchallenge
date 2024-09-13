@@ -78,3 +78,11 @@ The results demonstrate that freezing specific layers, such as **Layer 1**, can 
 1. Clone the repository:
    ```bash
    git clone https://github.com/chikap421/POSLayerFreeze.git
+   ```
+2. Open the Jupyter Notebook:
+   - Run the entire notebook to train, evaluate, and visualize the results.
+
+## Acknowledgments
+
+This project was inspired by the Hugging Face transformers library and the Universal Dependencies dataset. Special thanks to Hugging Face for providing the model and tools necessary for this experiment.
+   
